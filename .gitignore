@@ -1,0 +1,14 @@
+# Data and Output
+data/
+output/
+student_resource/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+*.log
